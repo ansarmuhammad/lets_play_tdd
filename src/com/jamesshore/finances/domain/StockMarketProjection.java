@@ -1,4 +1,5 @@
 package com.jamesshore.finances.domain;
+// adding comments here...
 
 import com.jamesshore.finances.util.*;
 import com.jamesshore.finances.values.*;
